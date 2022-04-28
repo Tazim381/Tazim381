@@ -4,7 +4,7 @@
 
 SSC 16
 HSC 18
-JU CSE 48th batch.
+JU 48th batch.
 
 Skills:  JS / HTML / CSS/Python/Php/Perl/Socket/JSON/SQL/Java/C++/C
 
