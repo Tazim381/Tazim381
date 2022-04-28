@@ -1,8 +1,6 @@
+![I am a general student](https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/279425909_766940674290176_6120273412436344542_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFYnTfTELKKONzZpZlJ_PsrgfkMqTA3Y3mB-QypMDdjebgLYhd1KhAFPrji-nlI0mHu1CERcFVnMdJk_SFPwqz_&_nc_ohc=SwjdPgp499YAX98_UNE&_nc_zt=23&_nc_ht=scontent.fcgp27-1.fna&oh=00_AT-nEln3X11VEWkvAk3iHUPKQo8iusaRryCS8UTiSNSULg&oe=626FDC6A)
 ####  Hi! I am tazim. Studying CSE at Jahangirnagar University 👋
 
-### Hi there 👋, my name is Tazim
-#### I am a general student
-![I am a general student](https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/279425909_766940674290176_6120273412436344542_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFYnTfTELKKONzZpZlJ_PsrgfkMqTA3Y3mB-QypMDdjebgLYhd1KhAFPrji-nlI0mHu1CERcFVnMdJk_SFPwqz_&_nc_ohc=SwjdPgp499YAX98_UNE&_nc_zt=23&_nc_ht=scontent.fcgp27-1.fna&oh=00_AT-nEln3X11VEWkvAk3iHUPKQo8iusaRryCS8UTiSNSULg&oe=626FDC6A)
 
 SSC 16
 HSC 18
