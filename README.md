@@ -2,8 +2,6 @@
 ####  Hi! I am tazim. Studying CSE at Jahangirnagar University 👋
 
 
-### Hi there 👋, my name is Tazim
-
 SSC- 16
 HSC- 18
 JU CSE 48th batch.
